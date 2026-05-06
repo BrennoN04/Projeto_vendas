@@ -1,0 +1,42 @@
+commit e8c761c419ffa1f0f8b314d8e748dd83beeb7a1a
+Merge: 677dbdb 884089b
+Author: Brenno Nunes <brennons.06@gmail.com>
+Date:   Tue May 5 19:12:36 2026 -0500
+
+    Merge branch 'develop'
+
+commit 677dbdb634d4fdd0f5daafff459c40295cb2f65e
+Author: Brenno Nunes <brennons.06@gmail.com>
+Date:   Tue May 5 18:57:36 2026 -0500
+
+    feat: Edição da fonte das letras do body Ref #05
+
+commit 884089bb72655245dab7ce34f0e91c133cf0c7ca
+Author: Brenno Nunes <brennons.06@gmail.com>
+Date:   Tue May 5 18:53:39 2026 -0500
+
+    feat> inclui a lista de produtos na pagina Refs #04
+
+commit 9b369e1221dc1a8179fd3f8d634ca5765176e897
+Author: Brenno Nunes <brennons.06@gmail.com>
+Date:   Tue May 5 18:30:08 2026 -0500
+
+    feat: cria um estilo azul para a index.html Refs #03
+
+commit b4eb3bda3a9b3acdc50c455c389788ecd4ef0bc7
+Author: Brenno Nunes <brennons.06@gmail.com>
+Date:   Mon May 4 20:25:21 2026 -0500
+
+    Feat: criação do index.html
+
+commit b130e63ac9d1d1fdd07b677542b16c961c137b42
+Author: Brenno Nunes <brennons.06@gmail.com>
+Date:   Mon May 4 20:05:12 2026 -0500
+
+    chore: edição do readme - ref #1
+
+commit 1e4576f27e4f659d99346270517fae27c61b800a
+Author: BrennoN04 <brennons.06@gmail.com>
+Date:   Mon May 4 19:29:24 2026 -0500
+
+    Initial commit
